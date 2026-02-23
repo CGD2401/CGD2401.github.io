@@ -1,77 +1,56 @@
 # CGD2401.github.io
 
-This is the main repository for my personal website, hosted at **[CGD2401.github.io](https://CGD2401.github.io)**.  
-The website serves as my professional portfolio, showcasing my background, experience, and selected projects in **Data Science, Machine Learning, Geosciences, Climate & Sustainability, Bioinformatics, and AI-driven applications**.  
+Personal website and portfolio, hosted at **CGD2401.github.io**.
+
+This site showcases my background and selected work across:
+- Data Science & Machine Learning
+- Geosciences & Geospatial Analytics
+- Climate & Sustainability
+- Scientific ML / AI applications
 
 It includes:
-- A detailed CV
-- Featured projects with explanations and interactive visualizations
-- A project roadmap and timeline for ongoing work
-- Useful notes and learning resources
+- CV / profile
+- Featured projects (with reproducible documentation)
+- Roadmap / timeline
+- Notes and learning resources
 
 ---
 
 ## 📂 Sections
 
-- **[Portfolio Home](./index.html)** – Main landing page with highlights of my work.
-- **[Notes & Resources](./notes/index.md)** – Personal study notes, curated references, and research materials.
-- **[Project Timeline](./timeline.html)** – Interactive roadmap of milestones and deliverables.
+- **[Home](./index.html)** – Main landing page.
+- **[Portfolio](./portfolio/)** – Selected projects and case studies.
+- **[Notes](./notes/)** – Personal notes and curated resources.
+- **[Timeline](./timeline.html)** – Roadmap and milestones.
 
 ---
 
-## 📌 Project Documentation Template
+## 📌 Project documentation template
 
-Each project in this portfolio follows a consistent documentation structure for clarity and reproducibility.
+Each project follows a consistent structure:
 
-### 1. Problem
-- Context, motivation, and potential impact.
-
-### 2. Data
-- Sources and licenses
-- Feature schema
-- Data leakage risks and mitigation
-
-### 3. Methods
-- Models / architecture
-- Validation and cross-validation approach
-- Evaluation metrics
-
-### 4. Results
-- Key tables and charts
-- Comparison against baseline / state-of-the-art
-
-### 5. Deployment
-- How to run the demo (e.g., Streamlit, Dash, API)
-- Infrastructure details (if applicable)
-
-### 6. Reproducibility
-- `requirements.txt` / `environment.yml`
-- Step-by-step instructions for execution
-
-### 7. Ethics & Security
-- Data privacy considerations
-- Bias detection and mitigation
-- Model security (if applicable)
-
-### 8. References
-- Relevant papers, documentation and useful links
+1. **Problem**
+2. **Data** (sources, licenses, schema, leakage risks)
+3. **Methods** (models, validation, metrics)
+4. **Results** (tables/plots, baseline comparison)
+5. **Deployment** (demo/app/API if applicable)
+6. **Reproducibility** (requirements + steps)
+7. **Ethics & Security** (privacy, bias, robustness)
+8. **References**
 
 ---
 
-## 🛠️ Technologies & Tools
-The portfolio and projects make use of:
+## 🛠️ Tech stack
+
 - **Languages**: Python, SQL, JavaScript, HTML/CSS
-- **Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-- **Visualization**: Matplotlib, Plotly, Seaborn, TimelineJS
+- **Data/ML**: Pandas, NumPy, scikit-learn, PyTorch, TensorFlow
+- **Visualization**: Matplotlib, Plotly, TimelineJS
 - **Deployment**: GitHub Pages, Streamlit, Docker
-- **Version Control**: Git & GitHub
+- **Version control**: Git & GitHub
 
 ---
 
 ## 📜 License
-Unless otherwise stated, all content in this repository is under the [MIT License](./LICENSE).  
-Project datasets are subject to their respective licenses.
 
----
-
-
+Unless otherwise stated, content in this repository is under the **MIT License**.
+Datasets used in projects remain under their respective licenses.
